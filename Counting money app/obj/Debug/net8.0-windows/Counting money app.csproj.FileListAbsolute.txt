@@ -1,0 +1,55 @@
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\Counting money app.exe
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\Counting money app.deps.json
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\Counting money app.runtimeconfig.json
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\Counting money app.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\Counting money app.pdb
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\Counting money app.csproj.GenerateResource.cache
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\Counting money app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\Counting money app.AssemblyInfoInputs.cache
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\Counting money app.AssemblyInfo.cs
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\Counting money app.csproj.CoreCompileInputs.cache
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\Counting money app.dll
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\refint\Counting money app.dll
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\Counting money app.pdb
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\Counting money app.genruntimeconfig.cache
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\ref\Counting money app.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\itextsharp.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\Counting money app.csproj.AssemblyReference.cache
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\Counting.B751F6A5.Up2Date
+D:\Udemy\C#\Counting money app\Counting money app\obj\Debug\net8.0-windows\MoneyCounterApp.Views.MainForm.resources
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\x86\tesseract50.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\x64\tesseract50.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\Tesseract.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\RBush.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\x86\tesseract50.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\x64\tesseract50.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\Counting money app.exe
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\Counting money app.deps.json
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\Counting money app.runtimeconfig.json
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\Counting money app.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\Counting money app.pdb
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\ClosedXML.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\itextsharp.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\RBush.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\Udemy\C#\Counting money app\Counting money app\bin\Release\Debug\net8.0-windows\Tesseract.dll
